@@ -56,4 +56,5 @@ TypeScript and C# are my main working languages. My public repositories also inc
 ## Connect
 
 - Website: [abishkarrai.com](https://abishkarrai.com)
+- LinkedIn: [linkedin.com/in/abishkar-rai](https://au.linkedin.com/in/abishkar-rai)
 - GitHub: [github.com/abishkar123](https://github.com/abishkar123)
